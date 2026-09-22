@@ -1,0 +1,20 @@
+{
+  "name": "buildmo",
+  "interface": {
+    "displayName": "BuildMo"
+  },
+  "plugins": [
+    {
+      "name": "buildmo",
+      "source": {
+        "source": "local",
+        "path": "./plugins/buildmo"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

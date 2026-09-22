@@ -1,0 +1,14 @@
+{
+  "name": "buildmo",
+  "owner": {
+    "name": "Abhiraman Suresh"
+  },
+  "plugins": [
+    {
+      "name": "buildmo",
+      "source": "./plugins/buildmo",
+      "description": "BrainMo's design-led delivery workflow for the Guru repository.",
+      "version": "0.1.0"
+    }
+  ]
+}

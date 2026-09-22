@@ -1,0 +1,27 @@
+{
+  "name": "buildmo",
+  "version": "0.1.0",
+  "description": "BrainMo's design-led delivery workflow for Guru. Frame, specify, investigate, build, critique, QA in review rooms, and ship through staging while following the repository's Git, worktree, design-system, verification, and approval rules.",
+  "author": {
+    "name": "Abhiraman Suresh",
+    "url": "https://github.com/abhiramansuresh"
+  },
+  "homepage": "https://github.com/abhiramansuresh/buildmo",
+  "repository": "https://github.com/abhiramansuresh/buildmo",
+  "keywords": ["brainmo", "guru", "design", "workflow", "worktrees", "review-rooms"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "BuildMo",
+    "shortDescription": "BrainMo design-led delivery",
+    "longDescription": "A stage-gated delivery workflow for BrainMo's Guru repository. It keeps product judgement with the team while agents handle evidence, specifications, isolated implementation, verification, review rooms, and GitHub handoff.",
+    "developerName": "Abhiraman Suresh",
+    "category": "Productivity",
+    "capabilities": ["Instructions"],
+    "websiteURL": "https://github.com/abhiramansuresh/buildmo",
+    "defaultPrompt": [
+      "Frame this BrainMo feature.",
+      "Investigate this Guru bug without changing anything.",
+      "Build the smallest coherent slice and put it on screen."
+    ]
+  }
+}
