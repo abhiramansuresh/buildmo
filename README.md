@@ -50,8 +50,8 @@ Use `/buildmo:frame`, `/buildmo:spec`, `/buildmo:investigate`,
 `/buildmo:build`, `/buildmo:critique`, `/buildmo:qa`,
 `/buildmo:review-room`, `/buildmo:ship`, or `/buildmo:status`.
 
-Because this repository is private, each teammate needs GitHub access to it
-before installation.
+The repository is public, so teammates can install BuildMo without being added
+as repository collaborators.
 
 ## Repository layout
 
